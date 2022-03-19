@@ -17,7 +17,7 @@ Display movie choices and seats in a theater to select from in order to purchase
 
 ### Links
 
-Live Site URL:  
+Live Site URL:  https://gunesbora.github.io/Movie-Seat-App/
 
 ### Built with
 
